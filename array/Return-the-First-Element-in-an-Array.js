@@ -13,4 +13,4 @@ function getFirstValue(arr){
     arr = [1,2,3]
     return arr.shift()
 }
-console.log(getFirstValue()) 
+document.write(getFirstValue()) 
