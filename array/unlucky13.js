@@ -12,4 +12,4 @@
 // // All numbers in the array are divisible by 13.
 // Notes
 // N/A
-const unlucky13 = arr => arr.filter(num => num % 13 !== 0);
+const unlucky13 = arr => arr.filter(num => num % 13 !== 0)
